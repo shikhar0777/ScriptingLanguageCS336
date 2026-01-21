@@ -1,2 +1,2 @@
 # CS336-CLASS-
-cLASS NOTE 
+Scripting Langugae class 
