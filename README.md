@@ -1,2 +1,2 @@
 # CS336-CLASS- all
-Scripting Langugae 
+Scripting Langugae python
