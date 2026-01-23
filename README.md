@@ -1,2 +1,2 @@
 # CS336-CLASS- all
-Scripting Langugae python
+Scripting Langugae python frameworks
