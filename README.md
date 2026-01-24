@@ -1,2 +1,2 @@
 # CS336-CLASS- all
-Scripting Langugae python frameworks class spring
+Scripting Langugae python frameworks class spring2026
