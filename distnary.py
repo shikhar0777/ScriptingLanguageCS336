@@ -1,7 +1,7 @@
 
 myDict = {}
 myDict = {
-    "name": "Alice",
-    "age": 25,
-    "city": "New York"
+    "name": "Luice",
+    "age": 21,
+    "city": "Nepal"
 }
