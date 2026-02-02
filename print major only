@@ -1,0 +1,13 @@
+student_info = ("S101", "Alice")
+marks = [80, 85, 90]
+major = ["cs", "econ", "math"]
+minor = ["cyber", "data", "quantum"]
+
+student = {
+    "info": student_info,
+    "marks": marks,
+    "major": major,
+    "minor": minor,
+}
+
+print(student["major"])
